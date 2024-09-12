@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>IMCCalc</title>
+</head>
+<body>
+  <div id="container">
+    <h1 id="app-name"></h1>
+
+    <h2 id="bmi-header"></h2>
+    <div id="bmi-calculator">
+      <label for="bmi-weight" id="weight-label"></label>
+      <input type="number" id="bmi-weight" placeholder="">
+      <label for="bmi-height" id="height-label"></label>
+      <input type="number" id="bmi-height" placeholder="">
+      <button id="calculate-bmi"></button>
+      <p id="bmi-result"></p>
+
+      <div id="bmi-classification" class="classification-box" style="display: none;"></div>
+    </div>
+
+    <div id="theme-toggle" style="margin-top: 15px;">
+      <label for="theme-dropdown">Escolha o tema:</label>
+      <select id="theme-dropdown">
+        <option value="light">Tema Claro</option>
+        <option value="dark">Tema Escuro</option>
+      </select>
+    </div>
+
+    <p id="settings-text" style="cursor: pointer;"></p>
+
+    <div id="modal-overlay"></div>
+    <div id="settings-modal">
+      <button class="modal-button" id="export-csv">Exportar para CSV</button>
+      <button class="modal-button" id="delete-db">Apagar Informações</button>
+    </div>
+
+    <footer id="footer">
+      <p>Calculadora criada pelo <strong>LaBiOmicS</strong> </br> Laboratório de Bioinformática e Ciências Ômicas </br> <strong>Universidade de Mogi das Cruzes</strong>.</p>
+    </footer>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
