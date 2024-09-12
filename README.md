@@ -86,6 +86,14 @@ A extensão permite a exportação dos cálculos realizados para um arquivo CSV.
 - `styles.css`: Estilos CSS para temas claro e escuro.
 - Diretórios `_locales`: Arquivos de tradução para diferentes idiomas.
 
+## Equipe
+
+A presente extensão é fruto da seguinte parceria:
+
+- Laboratório de Bioinformática e Ciências Ômicas (LaBiOmicS) da Universidade de Mogi das Cruzes (UMC)
+- Laboratório  de Genômica Funcional e Estrutural da Universidade de Mogi das Cruzes (UMC)
+- Laboratório de Genética Ecológica e Evolutiva (LaGEEvo) da Universidade de Viçosa (UFV)
+
 ## Como Contribuir
 
 1. Faça um fork do repositório.
