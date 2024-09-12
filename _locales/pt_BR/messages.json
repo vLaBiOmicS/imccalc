@@ -1,0 +1,35 @@
+{
+  "appName": {
+    "message": "IMCCalc"
+  },
+  "bmiHeader": {
+    "message": "Calculadora de IMC"
+  },
+  "weightPlaceholder": {
+    "message": "Peso (kg)"
+  },
+  "heightPlaceholder": {
+    "message": "Altura (cm)"
+  },
+  "calculateButton": {
+    "message": "Calcular"
+  },
+  "bmiError": {
+    "message": "Por favor, insira peso e altura válidos."
+  },
+  "bmiResult": {
+    "message": "Seu IMC é {0}."
+  },
+  "settingsText": {
+    "message": "Configurações"
+  },
+  "clearSuccess": {
+    "message": "Todos os dados foram apagados!"
+  },
+  "darkTheme": {
+    "message": "Tema Escuro"
+  },
+  "lightTheme": {
+    "message": "Tema Claro"
+  }
+}
