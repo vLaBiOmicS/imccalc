@@ -22,8 +22,8 @@
 
 ## Funcionamento
 
-<img src="/imc.gif" width="400"/>
 
+<img src="/imc.gif" width="400"/>
 
 ---
 
