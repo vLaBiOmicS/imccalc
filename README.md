@@ -1,6 +1,7 @@
-<div style="text-align: center;">
-<img src="/imc.png" width="300"/>
-</div>
+#IMCCALC
+
+<img src="/imc.png" width="200"/>
+
 
 **IMCCalc** é uma extensão do Google Chrome para calcular o Índice de Massa Corporal (IMC). A calculadora persiste os cálculos no IndexedDB e permite exportar os dados para um arquivo CSV ou apagá-los diretamente do banco de dados local. A extensão oferece suporte a múltiplos idiomas e temas (claro e escuro).
 
