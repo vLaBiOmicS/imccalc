@@ -22,7 +22,7 @@
 
 ## Funcionamento
 
-<img src="/imc.gif" width="600"/>
+<img src="/imc.gif" width="400"/>
 
 
 ---
