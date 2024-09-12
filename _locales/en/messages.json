@@ -1,0 +1,35 @@
+{
+  "appName": {
+    "message": "IMCCalc"
+  },
+  "bmiHeader": {
+    "message": "BMI Calculator"
+  },
+  "weightPlaceholder": {
+    "message": "Weight (kg)"
+  },
+  "heightPlaceholder": {
+    "message": "Height (cm)"
+  },
+  "calculateButton": {
+    "message": "Calculate"
+  },
+  "bmiError": {
+    "message": "Please enter valid weight and height."
+  },
+  "bmiResult": {
+    "message": "Your BMI is {0}."
+  },
+  "settingsText": {
+    "message": "Settings"
+  },
+  "clearSuccess": {
+    "message": "All data has been cleared!"
+  },
+  "darkTheme": {
+    "message": "Dark Theme"
+  },
+  "lightTheme": {
+    "message": "Light Theme"
+  }
+}
