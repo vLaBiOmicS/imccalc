@@ -18,6 +18,16 @@
 - **Internacionalização** completa com mensagens e textos em diferentes idiomas.
 - **Notificação de tooltip** ao passar o mouse sobre o nome "LaBiOmicS", exibindo "Laboratório de Bioinformática e Ciências Ômicas da Universidade de Mogi das Cruzes".
 
+---
+
+## Funcionamento
+
+<img src="/imc.gif" width="200"/>
+
+
+---
+
+
 ## Instalação
 
 1. Clone este repositório:
