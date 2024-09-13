@@ -20,11 +20,17 @@
   "bmiResult": {
     "message": "Your BMI is {0}."
   },
-  "settingsText": {
-    "message": "Settings"
+  "exportCSV": {
+    "message": "Export to CSV"
+  },
+  "clearData": {
+    "message": "Clear Data"
   },
   "clearSuccess": {
     "message": "All data has been cleared!"
+  },
+  "themeDropdownLabel": {
+    "message": "Choose theme:"
   },
   "darkTheme": {
     "message": "Dark Theme"
