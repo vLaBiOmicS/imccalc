@@ -20,11 +20,17 @@
   "bmiResult": {
     "message": "Tu IMC es {0}."
   },
-  "settingsText": {
-    "message": "Configuraciones"
+  "exportCSV": {
+    "message": "Exportar a CSV"
+  },
+  "clearData": {
+    "message": "Borrar Datos"
   },
   "clearSuccess": {
     "message": "¡Todos los datos han sido borrados!"
+  },
+  "themeDropdownLabel": {
+    "message": "Elige el tema:"
   },
   "darkTheme": {
     "message": "Tema Oscuro"
