@@ -502,5 +502,3 @@ cat > imccalc/_locales/es/messages.json <<EOL
 EOL
 
 echo "Extensão IMCCalc atualizada com sucesso!"
-
-
