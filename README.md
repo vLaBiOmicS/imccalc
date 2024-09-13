@@ -16,7 +16,6 @@
 - **Troca de tema** entre claro e escuro através de um menu dropdown.
 - **Design responsivo** adaptado para diferentes tamanhos de tela.
 - **Internacionalização** completa com mensagens e textos em diferentes idiomas.
-- **Notificação de tooltip** ao passar o mouse sobre o nome "LaBiOmicS", exibindo "Laboratório de Bioinformática e Ciências Ômicas da Universidade de Mogi das Cruzes".
 
 ---
 
